@@ -1,2 +1,5 @@
 # flask_dash_learn
-playing around with dashboards and flask
+
+Just a little repository for teaching myself flask from the ground up.
+The purpose is to eventually start building visualizations and interactive dashboards for
+my python data apps.  
